@@ -1,5 +1,3 @@
 # BME362_image_analysis
-TODO:
-1. Make file folder selection (GDrive, Local, Github Sample Images)
-2. Finish Analysis part
-3. Check writing, rewrite.
+
+https://colab.research.google.com/github/sevwal/BME362_image_analysis/blob/main/Image_Processing.ipynb
